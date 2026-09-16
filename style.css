@@ -26,7 +26,7 @@ a{text-decoration:none;color:inherit}
 .btn{display:inline-flex;align-items:center;justify-content:center;padding:13px 24px;border-radius:30px;font-weight:700;border:1px solid transparent;cursor:pointer}
 .primary{background:#d5c58f;color:#1c291f}
 .ghost{border-color:#dbe2dc;color:#fff}
-.hero-stats{position:absolute;bottom:45px;left:5%;display:flex-direction:column;gap:18px;color:white;padding-bottom:0}
+.hero-stats{position:absolute;bottom:45px;left:50%;transform:translateX(-50%);display:flex;gap:70px;color:white;padding-bottom:0}
 .hero-stats div{display:flex;flex-direction:column}
 .hero-stats strong{font-family:"Playfair Display";font-size:30px}
 .hero-stats span{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#cbd4cc}
