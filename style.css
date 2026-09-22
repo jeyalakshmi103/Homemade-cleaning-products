@@ -76,7 +76,7 @@ a{text-decoration:none;color:inherit}
 .service-grid article{background:#17231d;padding:28px;min-height:290px;position:relative}
 .service-grid b{font-size:11px;color:#a9b7a9}
 .service-icon{font-size:31px;margin:28px 0 12px;color:#c9b98a}
-.service-icon img{width:55px;height:55px;object-fit:cover;display:block}
+.service-icon img{width:65px;height:65px;object-fit:cover;display:block}
 .service-grid h3{font-family:"Playfair Display";font-size:22px;line-height:1.2}
 .service-grid p{font-size:13px;color:#b4beb6}
 .team-grid{display:grid;
