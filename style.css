@@ -16,7 +16,7 @@ a{text-decoration:none;color:inherit}
 .brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:2px;line-height:.9}
 .brand small{font-size:9px;letter-spacing:4px}
 .brand-mark{display:grid;place-items:center;width:42px;height:42px;border:1px solid #dfe9df;border-radius:50%;font-size:12px;letter-spacing:0}
-.nav-links{display:flex;align-items:center;gap:12px;font-size:14px}
+.nav-links{display:flex;align-items:center;gap:11px;font-size:14px}
 .nav-links a{opacity:.9}
 .nav-cta{padding:11px 18px;border:1px solid rgba(255,255,255,.6);border-radius:30px}
 .menu-btn{display:none;background:none;border:0;color:white;font-size:25px}
