@@ -20,7 +20,7 @@ a{text-decoration:none;color:inherit}
 .nav-links a{opacity:.9}
 @media (max-width: 600px){
   .nav-links{
-    gap:6px;
+    gap:4px;
     font-size:12px;
   }
   .nav-cta{
