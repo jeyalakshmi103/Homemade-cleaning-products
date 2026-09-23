@@ -18,6 +18,16 @@ a{text-decoration:none;color:inherit}
 .brand-mark{display:grid;place-items:center;width:42px;height:42px;border:1px solid #dfe9df;border-radius:50%;font-size:12px;letter-spacing:0}
 .nav-links{display:flex;align-items:center;gap:11px;font-size:14px}
 .nav-links a{opacity:.9}
+@media (max-width: 600px){
+  .nav-links{
+    gap:6px;
+    font-size:12px;
+  }
+  .nav-cta{
+    padding:8px 10px;
+    font-size:12px;
+  }
+}
 .nav-cta{padding:11px 18px;border:1px solid rgba(255,255,255,.6);border-radius:30px}
 .menu-btn{display:none;background:none;border:0;color:white;font-size:25px}
 .hero{min-height:760px;position:relative;overflow:hidden;background:#26382e}
